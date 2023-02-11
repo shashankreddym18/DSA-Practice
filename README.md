@@ -1,2 +1,2 @@
 # DSA-Practice
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+This repository consists of the practice problems of DSA solved in leetcode, geekforgeeks, etc.
